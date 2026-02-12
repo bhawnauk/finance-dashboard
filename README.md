@@ -7,7 +7,7 @@
 
 A modern **React + Tailwind CSS dashboard** displaying **stocks** and **cryptocurrencies** with interactive charts and dark/light mode. 
 
-[Live Demo](https://interactive-finance-dashboard.vercel.app)
+[Live Demo](https://interactive-f-inance-dashboard.vercel.app)
 
 ---
 
